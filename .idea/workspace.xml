@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" name="Default" comment="" />
+    <ignored path="auto.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/update_purchase.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441468012456" ignored="false" />
+    <file path="/checklogin.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1440762839835" ignored="false" />
+    <file path="/a.dummy" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1440928344727" ignored="false" />
+    <file path="/add_sales.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1442145872024" ignored="false" />
+    <file path="/view_sales.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441614624028" ignored="false" />
+    <file path="/update_sales.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1444036135878" ignored="false" />
+    <file path="/view_out_standing.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441005141265" ignored="false" />
+    <file path="/view_purchase.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1443788467696" ignored="false" />
+    <file path="/view_customers.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441009417435" ignored="false" />
+    <file path="/view_payments.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1447158444465" ignored="false" />
+    <file path="/update_payment.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441970791045" ignored="false" />
+    <file path="/update_out_standing.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441006340708" ignored="false" />
+    <file path="/purchase_report.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441012100620" ignored="false" />
+    <file path="/sales_report.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441011554080" ignored="false" />
+    <file path="/all_report.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441009079889" ignored="false" />
+    <file path="/sale_bill.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1447217079201" ignored="false" />
+    <file path="/add_customer.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1447160226941" ignored="false" />
+    <file path="/update_stock.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441267021492" ignored="false" />
+    <file path="/add_purchase.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441609809419" ignored="false" />
+    <file path="/add_category.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441353559594" ignored="false" />
+    <file path="/init.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441606080760" ignored="false" />
+    <file path="/nav.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441693980346" ignored="false" />
+    <file path="/report_payments.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1442132812468" ignored="false" />
+    <file path="/view_reg_excise.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441870475337" ignored="false" />
+    <file path="/add_reg_excise.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441798908211" ignored="false" />
+    <file path="/view_files.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1447159077008" ignored="false" />
+    <file path="/add_files.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441866065610" ignored="false" />
+    <file path="/edit_reg_excise.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441800438045" ignored="false" />
+    <file path="/update_reg_excise.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441802975286" ignored="false" />
+    <file path="/update_files.php" changelist="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" time="1441873122245" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="auto" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="vertical" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="add_sales.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/add_sales.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="299" column="24" selection-start="12033" selection-end="12033" vertical-scroll-proportion="-5.8461537">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="update_sales.php" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/update_sales.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="502" column="651" selection-start="24917" selection-end="24917" vertical-scroll-proportion="0.49673203">
+                  <folding>
+                    <element signature="n#style#0;n#input#1;n#td#5;n#tr#4;n#table#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#input#0;n#td#6;n#tr#4;n#table#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#input#0;n#td#7;n#tr#4;n#table#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="update_sales.php" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/update_sales.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="735" column="105" selection-start="41054" selection-end="41065" vertical-scroll-proportion="0.7873754">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/update_reg_excise.php" />
+        <option value="$PROJECT_DIR$/add_files.php" />
+        <option value="$PROJECT_DIR$/view_reg_excise.php" />
+        <option value="$PROJECT_DIR$/update_files.php" />
+        <option value="$PROJECT_DIR$/view_out_standing.php" />
+        <option value="$PROJECT_DIR$/update_payment.php" />
+        <option value="$PROJECT_DIR$/add_sales.php" />
+        <option value="$PROJECT_DIR$/view_payments.php" />
+        <option value="$PROJECT_DIR$/view_files.php" />
+        <option value="$PROJECT_DIR$/sale_bill.php" />
+        <option value="$PROJECT_DIR$/add_customer.php" />
+        <option value="$PROJECT_DIR$/report_payments.php" />
+        <option value="$PROJECT_DIR$/add_reg_excise.php" />
+        <option value="$PROJECT_DIR$/view_purchase.php" />
+        <option value="$PROJECT_DIR$/view_customers.php" />
+        <option value="$PROJECT_DIR$/update_sales.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>PHPDocPHP</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="editor.preferences.import" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../raana" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e166bd4-ba7f-4794-b24c-a77356f8e8e5" name="Default" comment="" />
+      <created>1440761813303</created>
+      <updated>1440761813303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16212338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/add_files.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="184" column="53" selection-start="8091" selection-end="8091" vertical-scroll-proportion="0.04435995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_files.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="21" selection-start="4073" selection-end="4073" vertical-scroll-proportion="0.486692" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_out_standing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="158" column="9" selection-start="4037" selection-end="4037" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_reg_excise.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="205" column="31" selection-start="10472" selection-end="10472" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="193" column="72" selection-start="8200" selection-end="8207" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_reg_excise.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="355" column="56" selection-start="10475" selection-end="10475" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sale_bill.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="324" column="70" selection-start="11221" selection-end="11221" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report_payments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="7" selection-start="2252" selection-end="2252" vertical-scroll-proportion="0.35913312" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="38" selection-start="952" selection-end="952" vertical-scroll-proportion="0.025487257" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_files.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="313" column="1" selection-start="10396" selection-end="10396" vertical-scroll-proportion="0.10194903" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_payments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="88" selection-start="4572" selection-end="4572" vertical-scroll-proportion="0.025487257" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_customers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="430" column="138" selection-start="11306" selection-end="11306" vertical-scroll-proportion="0.10194903">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_purchase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="442" column="127" selection-start="12250" selection-end="12250" vertical-scroll-proportion="0.12743628">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_reg_excise.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="17" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.025487257">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_sales.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="299" column="24" selection-start="12033" selection-end="12033" vertical-scroll-proportion="-5.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_sales.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="502" column="651" selection-start="24917" selection-end="24917" vertical-scroll-proportion="0.49673203">
+          <folding>
+            <element signature="n#style#0;n#input#1;n#td#5;n#tr#4;n#table#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#6;n#tr#4;n#table#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#7;n#tr#4;n#table#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

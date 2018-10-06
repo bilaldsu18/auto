@@ -1,0 +1,1 @@
+<?php $config["database"] = "auto"; $config["host"]= "localhost";$config["username"]= "root"; $config["password"]= "";?>
